@@ -5,4 +5,6 @@ Link to this : https://openweathermap.org/
 
 Enter you city name to find the temperature, humidity and wind speed out there!
 
+you can go to site by https://itsdeepakydv.github.io/weather-API/
+
 
