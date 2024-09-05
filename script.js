@@ -40,7 +40,7 @@ let weather = {
         
       document.querySelector(".weather").classList.remove("loading"); //remove the class "loading" if present. (By default loading class was present
       document.body.style.backgroundImage =
-        "url('https://source.unsplash.com/1600x900/?" + name + "')"; //changing the background image according to the city name entered, images are from unplash
+        "url('https://source.unsplash.com/1600x900/?"  "')"; //changing the background image according to the city name entered, images are from unplash
     },
     search: function () {
       this.fetchWeather(document.querySelector(".search-bar").value);     //search function calls fetchWeather function and passes the value entered as a parameter to city
